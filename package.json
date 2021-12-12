@@ -1,0 +1,22 @@
+{
+  "name": "webiste-architects",
+  "version": "1.0.0",
+  "description": "website site about architects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savkevip/webiste-architects.git"
+  },
+  "author": "savkevip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savkevip/webiste-architects/issues"
+  },
+  "homepage": "https://github.com/savkevip/webiste-architects#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
